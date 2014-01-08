@@ -44,4 +44,6 @@
 
     <color name="tab_selector">#FFFFFFFF</color>
     
+    <color name="screencolor_background">#FFFFFF</color>
+    <drawable name="transparent_background">#00000000</drawable>
 </resources>

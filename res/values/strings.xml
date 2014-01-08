@@ -1852,6 +1852,8 @@
     <string name="accelerometer_summary_off" product="default">Switch orientation automatically when rotating phone</string>
     <!-- Sound & display settings screen, setting option name to change brightness -->
     <string name="brightness">Brightness</string>
+    <string name="screencolor">Screen color</string>
+    <string name="custom_screencolor">Custom screen color</string>
     <!-- Sound & display settings screen, setting option summary to change brightness -->
     <string name="brightness_summary">Adjust the brightness of the screen</string>
     <!-- Sound & display settings screen, setting option name to change screen timeout -->
@@ -4899,4 +4901,5 @@
 
     <!-- Text to display in regulatory info screen (from device overlay). -->
     <string name="regulatory_info_text"></string>
+
 </resources>

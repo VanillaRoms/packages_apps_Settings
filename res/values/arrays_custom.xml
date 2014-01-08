@@ -66,16 +66,6 @@
         <item>BR</item>
     </string-array>
 
-    <!-- Volume step options -->
-    <string-array name="volume_steps_entries" translatable="false">
-        <item>@string/volume_steps_60</item>
-        <item>@string/volume_steps_45</item>
-        <item>@string/volume_steps_30</item>
-        <item>@string/volume_steps_15</item>
-        <item>@string/volume_steps_7</item>
-        <item>@string/volume_steps_5</item>
-    </string-array>
-
     <!-- Increasing ringtone volume -->
     <string-array name="increasing_ring_interval_entries" translatable="false">
         <item>@string/increasing_ring_interval_eachring</item>
@@ -107,6 +97,12 @@
         <item>0</item>
         <item>1</item>
         <item>2</item>
+    
+    <!-- Screen Color Settings -->
+    <string-array name="screen_color_setting">
+        <item>Standard</item>
+        <item>Vivid</item>
+        <item>Custom</item>
     </string-array>
 
 </resources>
