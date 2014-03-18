@@ -147,6 +147,22 @@
     <!-- Wi-Fi settings screen, error message when the frequency band could not be set [CHAR LIMIT=50]. -->
     <string name="wifi_setting_countrycode_error">There was a problem setting the region code.</string>
 
+    
+    <!-- Color picker -->
+    <string name="dialog_color_picker">Color Picker</string>
+    <string name="press_color_to_apply">Press on color below to apply</string>
+    <string name="arrow_right">?</string>
+    <string name="arrow_down">?</string>
+    <string name="hex">Hex:</string>
+    <string name="hex_hint">#ff000000</string>
+    <string name="set">Set</string>
+    <string name="color_default">Default</string>
+
+    <!-- Headers -->
+    <string name="header_category_displaystreaming">Streaming</string>
+    <string name="header_category_notifications">Notifications</string>
+    <string name="header_category_displayset">Display Settings</string>
+    
     <!-- Volume steps options -->
     <string name="live_volume_title">Live volume steps</string>
     <string name="volume_steps_60">60</string>
