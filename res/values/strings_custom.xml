@@ -34,7 +34,7 @@
     <!-- About phone screen, Free memory info -->
     <string name="mem_info">Memory</string>
     <!-- About phone screen,  AOKP version name-->
-    <string name="mod_version">AOKP version</string>
+    <string name="mod_version">VU version</string>
     <!-- About phone screen,  AOKP unknown name-->
     <string name="mod_version_default">Unknown</string>
     <!-- About phone screen, build date of ROM -->
@@ -46,11 +46,11 @@
 
     <!-- Anonymous Statistics #CM -->
     <!-- About device screen, list item title. Takes the user to the screen about opting in or out of anonymous statistics. -->
-    <string name="anonymous_statistics_title">AOKP Statistics</string>
-    <string name="anonymous_statistics_summary">Help make AOKP better by opting into anonymous statistics reporting</string>
+    <string name="anonymous_statistics_title">VanillaUnicorn Statistics</string>
+    <string name="anonymous_statistics_summary">Help make VU better by opting into anonymous statistics reporting</string>
     <string name="anonymous_statistics_warning_title">About</string>
-    <string name="anonymous_statistics_warning">Opting into AOKP Statistics will allow non-personal data to be submitted to the
-        developers of AOKP to track unique installations across devices. The information submitted includes an unique identifier,
+    <string name="anonymous_statistics_warning">Opting into VU Statistics will allow non-personal data to be submitted to the
+        developers of VanillaUnicorn to track unique installations across devices. The information submitted includes an unique identifier,
         which does not compromise your privacy or personal data. The data is submitted once weekly, during boot.\n\nFor an example of the data that is submitted, tap on Preview Data.</string>
     <string name="enable_reporting_title">Enable reporting</string>
     <string name="preview_data_title">Preview data</string>
@@ -59,7 +59,7 @@
     <string name="anonymous_learn_more">Learn more</string>
 
     <!-- Anonymous Statistics - Notification -->
-    <string name="anonymous_notification_desc">Enable or Disable AOKP Statistics</string>
+    <string name="anonymous_notification_desc">Enable or Disable VU Statistics</string>
 
     <!-- Anonymous Statistics - Preview -->
     <string name="preview_id_title">Unique ID</string>
@@ -96,7 +96,7 @@
     <string name="end_time_title">End</string>
 
     <!-- ROM control -->
-    <string name="rom_control_title">ROM control</string>
+    <string name="rom_control_title">ROMControl</string>
 
     <!-- Themes Settings -->
     <!-- Settings main menu entry -->
@@ -152,6 +152,22 @@
     <!-- Wi-Fi settings screen, error message when the frequency band could not be set [CHAR LIMIT=50]. -->
     <string name="wifi_setting_countrycode_error">There was a problem setting the region code.</string>
 
+    
+    <!-- Color picker -->
+    <string name="dialog_color_picker">Color Picker</string>
+    <string name="press_color_to_apply">Press on color below to apply</string>
+    <string name="arrow_right">→</string>
+    <string name="arrow_down">↓</string>
+    <string name="hex">Hex:</string>
+    <string name="hex_hint">#ff000000</string>
+    <string name="set">Set</string>
+    <string name="color_default">Default</string>
+
+    <!-- Headers -->
+    <string name="header_category_displaystreaming">Streaming</string>
+    <string name="header_category_notifications">Notifications</string>
+    <string name="header_category_displayset">Display Settings</string>
+    
     <!-- Wi-Fi SSID string limits -->
     <string name="wifi_ssid_input_limit">SSID exceeds maximum length</string>
     <!-- Wi-Fi P2P string limits -->
@@ -183,4 +199,17 @@
     <string name="lock_numpad_random_always">Always</string>
     <string name="lock_numpad_random_on_request">On request</string>
 
+   <!-- Display Color Settings -->
+   <string name="screencolor_save">Save</string>
+   <string name="screencolor_cancel">Cancel</string>
+   <string name="previous_str">Previous</string>
+   <string name="new_str">New</string>
+   <string name="restore_preview">View default picture</string>
+   <string name="selectnewfile_menu">View new picture from Gallery</string>
+   <string name="selectfile_menu">View picture from Gallery</string>
+   <string name="restore_default_str">Reset</string>
+   <string name="hue_str">Hue: <xliff:g id="hue_value">%1$s</xliff:g></string>
+   <string name="saturation_str">Saturation: <xliff:g id="saturation_value">%1$s</xliff:g></string>
+   <string name="contrast_str">Contrast: <xliff:g id="contrast_value">%1$s</xliff:g></string>
+   <string name="intensity_str">Intensity: <xliff:g id="intensity_str_value">%1$s</xliff:g></string>
 </resources>
