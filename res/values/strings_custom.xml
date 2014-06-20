@@ -212,4 +212,9 @@
    <string name="saturation_str">Saturation: <xliff:g id="saturation_value">%1$s</xliff:g></string>
    <string name="contrast_str">Contrast: <xliff:g id="contrast_value">%1$s</xliff:g></string>
    <string name="intensity_str">Intensity: <xliff:g id="intensity_str_value">%1$s</xliff:g></string>
+
+   <!-- Fullscreen keyboard -->
+   <string name="disable_fullscreen_keyboard_title">Disable fullscreen keyboard</string>
+   <string name="disable_fullscreen_keyboard_summary">Landscape keyboard will never take up entire screen</string>
+
 </resources>
